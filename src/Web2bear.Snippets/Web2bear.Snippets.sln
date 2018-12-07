@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web2bear.Snippets.Common", "Web2bear.Snippets.Common\Web2bear.Snippets.Common.csproj", "{16BDFA06-6421-43B1-A40B-E077A93B4706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web2bear.Snippets.Common.Tests", "Web2bear.Snippets.Common.Tests\Web2bear.Snippets.Common.Tests.csproj", "{82007E1D-2C96-49CB-B3DC-B32F7E55AE7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16BDFA06-6421-43B1-A40B-E077A93B4706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BDFA06-6421-43B1-A40B-E077A93B4706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BDFA06-6421-43B1-A40B-E077A93B4706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BDFA06-6421-43B1-A40B-E077A93B4706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82007E1D-2C96-49CB-B3DC-B32F7E55AE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82007E1D-2C96-49CB-B3DC-B32F7E55AE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82007E1D-2C96-49CB-B3DC-B32F7E55AE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82007E1D-2C96-49CB-B3DC-B32F7E55AE7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {476D0D18-525E-4867-81C8-7F9E50B68E62}
+	EndGlobalSection
+EndGlobal
