@@ -1,0 +1,2 @@
+# dotnetsnippets
+Usefull snippets
