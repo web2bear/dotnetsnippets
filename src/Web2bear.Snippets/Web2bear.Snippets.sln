@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web2bear.Snippets.Common", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web2bear.Snippets.Common.Tests", "Web2bear.Snippets.Common.Tests\Web2bear.Snippets.Common.Tests.csproj", "{82007E1D-2C96-49CB-B3DC-B32F7E55AE7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web2bear.Dapper.Extensions", "Web2bear.Dapper.Extensions\Web2bear.Dapper.Extensions.csproj", "{8B3C0565-6081-4EDE-B038-F4F4F5F3E29E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{82007E1D-2C96-49CB-B3DC-B32F7E55AE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82007E1D-2C96-49CB-B3DC-B32F7E55AE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82007E1D-2C96-49CB-B3DC-B32F7E55AE7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B3C0565-6081-4EDE-B038-F4F4F5F3E29E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B3C0565-6081-4EDE-B038-F4F4F5F3E29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B3C0565-6081-4EDE-B038-F4F4F5F3E29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B3C0565-6081-4EDE-B038-F4F4F5F3E29E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
